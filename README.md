@@ -13,3 +13,5 @@
 ### Why github master branch's refs not change to the fast-forwards feature's refs ? 
 
 ### rebase merge
+
+### rebase with author and committer
